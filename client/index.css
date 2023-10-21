@@ -1,0 +1,33 @@
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.title-container {
+    display: flex;
+    justify-content: center;
+}
+
+#chart-container {
+    display: flex;
+    justify-content: center;
+}
+
+html {
+    color-scheme: light;
+}
+
+#input-search {
+    width: 250px;
+    height: 25px;
+}
+
+nav {
+    display: flex;
+    justify-content: end;
+}
+
+header{
+    padding: 30px 30px;
+}
